@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidataShopping.API", "ValidataShopping\ValidataShopping.API.csproj", "{331FD052-2FB0-4068-970F-07F30A2F57BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidataShopping.Infrastructure", "ValidataShopping.Infrastructure\ValidataShopping.Infrastructure.csproj", "{70688687-BAA9-4F77-9EB9-7574C90FA198}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidataShopping.Domain", "ValidataShopping.Domain\ValidataShopping.Domain.csproj", "{7364A769-1F94-4443-A824-9B2B40A6E97E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidataShopping.Authentication", "ValidataShopping.Authentication\ValidataShopping.Authentication.csproj", "{FFDAA0DC-D402-4C4B-873C-40A0E118A423}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidataShopping.Application", "ValidataShopping.Application\ValidataShopping.Application.csproj", "{29D759DF-0B7C-4226-91D8-8CF28A9ECCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidataShopping.Test", "ValidataShopping.Test\ValidataShopping.Test.csproj", "{B14A8077-7C39-4BAC-8B76-A3256300D7D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331FD052-2FB0-4068-970F-07F30A2F57BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331FD052-2FB0-4068-970F-07F30A2F57BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331FD052-2FB0-4068-970F-07F30A2F57BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331FD052-2FB0-4068-970F-07F30A2F57BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70688687-BAA9-4F77-9EB9-7574C90FA198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70688687-BAA9-4F77-9EB9-7574C90FA198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70688687-BAA9-4F77-9EB9-7574C90FA198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70688687-BAA9-4F77-9EB9-7574C90FA198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7364A769-1F94-4443-A824-9B2B40A6E97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7364A769-1F94-4443-A824-9B2B40A6E97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7364A769-1F94-4443-A824-9B2B40A6E97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7364A769-1F94-4443-A824-9B2B40A6E97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDAA0DC-D402-4C4B-873C-40A0E118A423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDAA0DC-D402-4C4B-873C-40A0E118A423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDAA0DC-D402-4C4B-873C-40A0E118A423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDAA0DC-D402-4C4B-873C-40A0E118A423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D759DF-0B7C-4226-91D8-8CF28A9ECCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D759DF-0B7C-4226-91D8-8CF28A9ECCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D759DF-0B7C-4226-91D8-8CF28A9ECCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D759DF-0B7C-4226-91D8-8CF28A9ECCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14A8077-7C39-4BAC-8B76-A3256300D7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14A8077-7C39-4BAC-8B76-A3256300D7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14A8077-7C39-4BAC-8B76-A3256300D7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14A8077-7C39-4BAC-8B76-A3256300D7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE980479-8FA0-43F0-B913-9B8CCC69EF04}
+	EndGlobalSection
+EndGlobal
